@@ -1,3 +1,4 @@
+#!/bin/sh
 echo "1) Wayland only"
 echo "2) X11 only"
 echo "3) Both"
